@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/alexmojnov74/hot_restaurant/issues"
   },
-  "homepage": "https://github.com/alexmojnov74/hot_restaurant#readme",
+  "homepage": "index.html",
   "dependencies": {
     "express": "^4.17.1"
   }
